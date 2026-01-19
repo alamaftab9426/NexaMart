@@ -1,4 +1,6 @@
-# NexaMart – Full Stack E-Commerce Application
+# NexaMart – Full Stack E-Commerce Application 
+
+# Project Link -- evalueweb.netlify.app
 
 NexaMart is a **complete full-stack e-commerce web application** built using **React (Frontend)** and **Node.js + Express + MongoDB (Backend)**.
 This project is designed to cover **real-world e-commerce features**, including **product management, category hierarchy, variants, stock handling, authentication, and admin control**.
@@ -210,3 +212,4 @@ GitHub: [alamaftab9426](https://github.com/alamaftab9426)
 ##  If you like this project
 
 Give it a on GitHub — it motivates me to build more advanced projects 
+
